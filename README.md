@@ -24,7 +24,7 @@ Aqui estão alguns dos meus projetos mais recentes:
 - 💼 [LinkedIn](link do seu LinkedIn)
 - 🐦 [Twitter](link do seu Twitter)
 - 🌐 [Portfolio](link do seu portfolio)
-- 📧 [Email](mailto:seuemail@example.com)
+- 📧 [Email](mailto:matheusdiasestacioo@gmail.com)
 
 ## Contribuições
 
