@@ -57,3 +57,4 @@ Estou aberto(a) a colaborar em projetos e receber feedback! Se você estiver int
 
 ###
 Obrigado por visitar meu perfil! 🚀
+https://dev.to/envoy_/150-badges-for-github-pnk
