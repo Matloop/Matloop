@@ -21,7 +21,7 @@ Aqui estão alguns dos meus projetos mais recentes:
 
 - 💼 <a href="https://www.linkedin.com/in/matheus-dias-est%C3%A1cio-4102572b7/">Matheus Dias Estácio - LinkedIn</a>
 
-- 📧 [Email](mailto:matheusdiasestacioo@gmail.com)
+- 📧 matheusdiasestacioo@gmail.com
 
 
 Estou aberto(a) a colaborar em projetos e receber feedback! Se você estiver interessado(a) em trabalhar comigo ou discutir ideias, não hesite em entrar em contato.
