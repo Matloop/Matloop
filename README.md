@@ -19,7 +19,8 @@ Aqui estão alguns dos meus projetos mais recentes:
 
  Como me encontrar
 
-- 💼 [LinkedIn]https://www.linkedin.com/in/matheus-dias-est%C3%A1cio-4102572b7/
+- 💼 <a href="https://www.linkedin.com/in/matheus-dias-est%C3%A1cio-4102572b7/">Matheus Dias Estácio - LinkedIn</a>
+
 - 📧 [Email](mailto:matheusdiasestacioo@gmail.com)
 
 
