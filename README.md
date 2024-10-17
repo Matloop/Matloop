@@ -28,19 +28,6 @@ Estou aberto(a) a colaborar em projetos e receber feedback! Se você estiver int
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
-
-###
-
-<h2 align="left">I code with</h2>
 
 ###
 
