@@ -6,8 +6,8 @@ Sou um(a) desenvolvedor de software apaixonado(a) por Java, JavaScript e Python.
 
 ## Tecnologias e Ferramentas
 
-- 🌐 **Linguagens:** , JavaJavaScript
-- ⚙️ **Frameworks:**  Spring Boot, Angular, React
+- 🌐 **Linguagens:** , Java, JavaScript
+- ⚙️ **Frameworks:**  Spring Boot, Angular
 - 🛠️ **Ferramentas:** Git, Docker, VSCode, InteliJ, Eclipse, Netbeans, Android Studio
 - 📚 **Interesses:** Inteligência Artificial, Desenvolvimento Móvel, Desenvolvimento Web, Desenvolvimento de desktop
 
