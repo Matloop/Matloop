@@ -35,11 +35,9 @@ Estou aberto(a) a colaborar em projetos e receber feedback! Se você estiver int
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
   
 </div>
 
 ###
 Obrigado por visitar meu perfil! 🚀
-https://dev.to/envoy_/150-badges-for-github-pnk
+
