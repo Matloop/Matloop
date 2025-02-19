@@ -6,18 +6,16 @@
 
 ## Sobre Mim
 
-Sou um(a) desenvolvedor de software apaixonado(a) por Java, JavaScript e Python. Estou sempre em busca de aprender novas habilidades e compartilhar conhecimento com a comunidade.
+Sou um(a) desenvolvedor de software fullstack. Estou sempre em busca de aprender novas habilidades e compartilhar conhecimento com a comunidade.
 
 ## Tecnologias e Ferramentas
 
 - 🌐 **Linguagens:** , Java, JavaScript
 - ⚙️ **Frameworks:**  Spring Boot, Angular
-- 🛠️ **Ferramentas:** Git, Docker, VSCode, InteliJ, Eclipse, Netbeans, Android Studio
-- 📚 **Interesses:** Inteligência Artificial, Desenvolvimento Móvel, Desenvolvimento Web, Desenvolvimento de desktop
+- 🛠️ **Ferramentas:** Git, Docker, VSCode, InteliJ,
+- 📚 **Interesses:** Desenvolvimento Web, Desenvolvimento de desktop
 
-Projetos em Destaque
 
-Aqui estão alguns dos meus projetos mais recentes:
 
 
 
