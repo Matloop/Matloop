@@ -6,7 +6,7 @@
 
 ## Sobre Mim
 
-Sou um(a) desenvolvedor de software fullstack. Estou sempre em busca de aprender novas habilidades e compartilhar conhecimento com a comunidade.
+Tenho 17 anos e sou um(a) desenvolvedor de software fullstack. Estou sempre em busca de aprender novas habilidades e compartilhar conhecimento com a comunidade.
 
 ## Tecnologias e Ferramentas
 
