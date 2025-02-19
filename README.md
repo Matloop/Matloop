@@ -27,7 +27,7 @@ Sou um(a) desenvolvedor de software fullstack. Estou sempre em busca de aprender
 
 
 Estou aberto(a) a colaborar em projetos e receber feedback! Se você estiver interessado(a) em trabalhar comigo ou discutir ideias, não hesite em entrar em contato.
-<h1 align="left">Hey 👋 What's up?</h1>
+
 
 ###
 
