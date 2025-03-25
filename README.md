@@ -1,19 +1,14 @@
 
+## About me 
 
+I am 17 years old and a full-stack software developer. I am always looking to learn new skills and share knowledge with the community.
 
-
-# Olá, eu sou Matheus 👋
-
-## Sobre Mim
-
-Tenho 17 anos e sou um(a) desenvolvedor de software fullstack. Estou sempre em busca de aprender novas habilidades e compartilhar conhecimento com a comunidade.
-
-## Tecnologias e Ferramentas
-
-- 🌐 **Linguagens:** , Java, JavaScript
-- ⚙️ **Frameworks:**  Spring Boot, Angular
-- 🛠️ **Ferramentas:** Git, Docker, VSCode, InteliJ,
-- 📚 **Interesses:** Desenvolvimento Web, Desenvolvimento de desktop
+### Languages
+[![My Skills](https://skillicons.dev/icons?i=java,js,mysql,angular&theme=dark)](https://skillicons.dev)
+### Frameworks
+[![My Skills](https://skillicons.dev/icons?i=angular,springboot&theme=dark)](https://skillicons.dev)
+### Tools and IDEs
+[![My Skills](https://skillicons.dev/icons?i=eclipse,idea,vscode,docker,postman&theme=dark)](https://skillicons.dev)
 
 
 
@@ -28,22 +23,6 @@ Tenho 17 anos e sou um(a) desenvolvedor de software fullstack. Estou sempre em b
 [![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matloop&theme=tokyonight)](https://github.com/Matloop/github-readme-stats)
 <div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matloop&layout=compact&theme=tokyonight" alt="Top Languages"></div>
 
-
 ###
-
-
-###
-
-<div align="left">
-  
-</div>
-
-
-### Currently Learning
-[![My Skills](https://skillicons.dev/icons?i=java,js,postman,mysql,angular&theme=dark)](https://skillicons.dev)
-
-### Tools and IDEs
-[![My Skills](https://skillicons.dev/icons?i=eclipse,idea,vscode&theme=dark)](https://skillicons.dev)
-###
-Obrigado por visitar meu perfil! 🚀
+Thanks for visiting! 🚀
 
