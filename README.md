@@ -37,8 +37,7 @@ Estou aberto(a) a colaborar em projetos e receber feedback! Se você estiver int
 <div align="left">
   
 </div>
-### Main Skills
-[![My Skills](https://skillicons.dev/icons?i=java,spring,lua,html,css&theme=dark)](https://skillicons.dev)
+
 
 ### Currently Learning
 [![My Skills](https://skillicons.dev/icons?i=java,js,postman,mysql,angular&theme=dark)](https://skillicons.dev)
