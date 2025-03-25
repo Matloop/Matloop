@@ -23,5 +23,6 @@ I am 17 years old and a full-stack software developer. I am always looking to le
   <img align="center" alt="github activity waves" src="https://raw.githubusercontent.com/Matloop/Matloop/output/github-contribution-waves.svg">
 </picture>
 ###
+[![Spinning Rubik's Cube](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/p/sandbox/tvmpr6)
 Thanks for visiting! 🚀
 
