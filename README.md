@@ -26,7 +26,7 @@ Tenho 17 anos e sou um(a) desenvolvedor de software fullstack. Estou sempre em b
 - 📧 matheusdiasestacioo@gmail.com
 
 [![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matloop&theme=tokyonight)](https://github.com/Matloop/github-readme-stats)
-Estou aberto(a) a colaborar em projetos e receber feedback! Se você estiver interessado(a) em trabalhar comigo ou discutir ideias, não hesite em entrar em contato.
+<div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matloop&layout=compact&theme=tokyonight" alt="Top Languages"></div>
 
 
 ###
