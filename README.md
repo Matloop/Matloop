@@ -22,14 +22,6 @@ I am 17 years old and a full-stack software developer. I am always looking to le
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Matloop/Matloop/output/github-contribution-waves-light.svg">
   <img align="center" alt="github activity waves" src="https://raw.githubusercontent.com/Matloop/Matloop/output/github-contribution-waves.svg">
 </picture>
-###
-<div align="center">
-  <iframe src="https://codesandbox.io/embed/tvmpr6?view=preview&module=%2Fsrc%2FApp.tsx"
-     style="width:100%; height: 500px; border:0; border-radius: 4px; overflow:hidden;"
-     title="Spinning Rubik's Cube"
-     allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
-     sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"
-   ></iframe>
-</div>
+
 Thanks for visiting! 🚀
 
