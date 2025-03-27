@@ -16,12 +16,7 @@ I am 17 years old and a full-stack software developer. I am always looking to le
 [![My Skills](https://skillicons.dev/icons?i=eclipse,idea,vscode,docker,postman,mysql,postgres&theme=dark)](https://skillicons.dev)
 
 [![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matloop&theme=tokyonight)](https://github.com/Matloop/github-readme-stats)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matloop&layout=compact&theme=tokyonight" alt="Top Languages">
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Matloop/Matloop/output/github-contribution-waves-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Matloop/Matloop/output/github-contribution-waves-light.svg">
-  <img align="center" alt="github activity waves" src="https://raw.githubusercontent.com/Matloop/Matloop/output/github-contribution-waves.svg">
-</picture>
+
 
 Thanks for visiting! 🚀
 
