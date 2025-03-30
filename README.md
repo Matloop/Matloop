@@ -13,7 +13,7 @@ I am 17 years old and a full-stack software developer. I am always looking to le
 ### Frameworks
 [![My Skills](https://skillicons.dev/icons?i=angular,spring&theme=dark)](https://skillicons.dev)
 ### Tools and IDEs
-[![My Skills](https://skillicons.dev/icons?i=eclipse,idea,vscode,docker,postman,mysql,postgres&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=idea,vscode,docker,postman,mysql,postgres&theme=dark)](https://skillicons.dev)
 
 [![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matloop&theme=tokyonight)](https://github.com/Matloop/github-readme-stats)
 
