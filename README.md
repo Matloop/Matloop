@@ -5,7 +5,7 @@
 <br/>
 
 
-I am 17 years old and a full-stack software developer. I am always looking to learn new skills and share knowledge with the community.
+I am 18 years old and a full-stack software developer. I am always looking to learn new skills and share knowledge with the community.
 
 ### Languages
 [![My Skills](https://skillicons.dev/icons?i=java,js&theme=dark)](https://skillicons.dev)
